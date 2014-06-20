@@ -10,14 +10,14 @@ To accomplish this task the run_analyis.R script provided in this repository was
 This script downloads and unzips the zipfile from the website into a data directory underneath the current working directory. If the data directory does not already exist it will be created. 
 The tidy data set is constructed from the following files that are downloaded into the data directory:
 
-features.txt
-activity_labels.txt
-X_train.txt
-y_train.txt
-subject_train.txt
-X_test.txt
-y_test.txt
-subject_test.txt
+- features.txt
+- activity_labels.txt
+- X_train.txt
+- y_train.txt
+- subject_train.txt
+- X_test.txt
+- y_test.txt
+- subject_test.txt
 
 The resulting dataframe combines the measured values for all tested subjects for each activity type for both the test and training groups. 
 
