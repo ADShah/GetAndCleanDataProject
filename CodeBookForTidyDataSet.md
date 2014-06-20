@@ -4,11 +4,15 @@ The data used to develop the tidy data set was obtained from
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ## Variables of Tidy Data Set:
-1.Subject   
+1.Subject 
+...
       Identifies the Person who was tested. 30 people were tested so the values range from 1 to 30
+...      
 2.Activity 
+...
       is the activity that the person was performing when the values were measured.There were six
       Activities for which data was collected. The Activity values are as follows:
+...      
       *WALKING
       *WALKING_UPSTAIRS
       *WALKING_DOWNSTAIRS
