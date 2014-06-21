@@ -2,6 +2,7 @@ Code Book for Tidy Data Set produced by run_analysis.R
 ========================================================
 The data used to develop the tidy data set was obtained from 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+downloaded on Fri Jun 20 22:22:25 2014
 
 ## Variables of Tidy Data Set:
 ### 1. Subject 
