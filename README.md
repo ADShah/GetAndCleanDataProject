@@ -4,6 +4,7 @@ GetAndCleanDataProject
 This is a repository for the project for Getting and Cleaning Data 
 
 The purpose of this project was to create a tidy data set for the data obtained from the following website: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+downloaded on Fri Jun 20 22:22:25 2014
 
 To accomplish this task the run_analyis.R script provided in this repository was developed. 
 
