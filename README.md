@@ -29,9 +29,9 @@ The format for the tidy data developed by the run_analysis.R script was develope
 example in Hadley Wickham Tiday data paper http://vita.had.co.nz/papers/tidy-data.pdf
 
 The CodeBook Markdown file that describes the variables, the data, and the transformations performed
-to develop the tidy data.
+to develop the tidy data is in CodeBookForTidyDataSet.md in this repository.
 
-The following information is copyied from the README.txt file provided with the data that was obtained from the website: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+The following information is copied from the README.txt file provided with the data that was obtained from the website: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 on which the analysis was performed.
 
